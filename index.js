@@ -9,4 +9,3 @@ root.render(
     <App />
   </React.StrictMode>
 );
-<link rel="manifest" href="%PUBLIC_URL%/manifest.json" />;
